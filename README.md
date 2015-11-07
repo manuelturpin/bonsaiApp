@@ -8,4 +8,5 @@ Le contexte de développement souhaiter est celui basé sur l'environement M.E.A
 ### Server Side
 #### Serveur : basée sur la technologie NodeJs (https://nodejs.org) et expressJs (http://expressjs.com/)
 #### Base de donnée : Basée sur la technologie MongoDB (https://www.mongodb.org)
-#### Frontend : basée sur les technologies AngularJs (https://angularjs.org)
+### Frontend
+basée sur les technologies AngularJs (https://angularjs.org)
